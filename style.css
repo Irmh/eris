@@ -25,10 +25,16 @@ img{
     width: 150px;
 }
 h1{
-    font-size: 40px;
+    font-size: 60px;
     color: black;
     familia de fuentes: 'Allura', cursiva;
 }
+
+h2{
+    font-size: 30px;
+    background-color: rgb(244, 230, 175);
+   }
+
 
 p{
     font-size: 20px;
@@ -69,3 +75,5 @@ footer{
     flex-direction:row ;
     justify-content: space-between;
 }
+
+
